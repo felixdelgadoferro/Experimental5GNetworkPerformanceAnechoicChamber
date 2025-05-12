@@ -24,7 +24,7 @@ These metrics include:
 
 
 ## DOI Citations
--
+F. Delgado-Ferro, A. Ramírez-Arroyo, J. Navarro-Ortiz and J. F. Valenzuela-Valdés, "Experimental 5G Network Performance Analysis in a Semi-Anechoic and Semi-Reverberation Chamber," in IEEE Access, vol. 13, pp. 79678-79693, 2025, doi: 10.1109/ACCESS.2025.3566446.
 
 ### Acknowledgments
 Date of submission March 28, 2025.
